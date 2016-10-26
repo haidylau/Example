@@ -10,6 +10,7 @@ namespace ConsoleApplication1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("I finally figure out how to use git in vs 2015.HEHE");
         }
     }
 }
